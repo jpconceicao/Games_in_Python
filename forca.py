@@ -41,7 +41,7 @@ def print_header():
 
 
 def choose_word():
-    archive = open("palavras.txt", "r")
+    archive = open("words.txt", "r")
     palavras = []
 
     for linha in archive:
