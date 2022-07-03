@@ -1,0 +1,10 @@
+banana
+melancia
+morango
+uva
+abacate
+manga
+maracuja
+laranja
+limao
+pitaya
